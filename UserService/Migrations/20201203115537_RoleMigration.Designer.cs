@@ -9,8 +9,8 @@ using UserService.Database;
 namespace UserService.Migrations
 {
     [DbContext(typeof(DatabaseContext))]
-    [Migration("20201201042902_initial")]
-    partial class initial
+    [Migration("20201203115537_RoleMigration")]
+    partial class RoleMigration
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
@@ -19,6 +19,21 @@ namespace UserService.Migrations
                 .UseIdentityByDefaultColumns()
                 .HasAnnotation("Relational:MaxIdentifierLength", 63)
                 .HasAnnotation("ProductVersion", "5.0.0");
+
+            modelBuilder.Entity("UserService.Database.Entities.Role", b =>
+                {
+                    b.Property<int>("RoleId")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("integer")
+                        .UseIdentityByDefaultColumn();
+
+                    b.Property<string>("RoleName")
+                        .HasColumnType("text");
+
+                    b.HasKey("RoleId");
+
+                    b.ToTable("Roles");
+                });
 
             modelBuilder.Entity("UserService.Database.Entities.User", b =>
                 {

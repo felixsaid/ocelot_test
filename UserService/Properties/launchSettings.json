@@ -12,7 +12,7 @@
     "IIS Express": {
       "commandName": "IISExpress",
       "launchBrowser": true,
-      "launchUrl": "user",
+      "launchUrl": "api/users/user",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
@@ -20,8 +20,8 @@
     "UserService": {
       "commandName": "Project",
       "launchBrowser": true,
-      "launchUrl": "user",
-      "applicationUrl": "http://localhost:5000",
+      "launchUrl": "api/users/user",
+      "applicationUrl": "http://localhost:64451",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       }

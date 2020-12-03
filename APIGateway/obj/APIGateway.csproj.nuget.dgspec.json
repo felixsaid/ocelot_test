@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Test Development\\SimpleMicroservice\\APIGateway\\APIGateway.csproj": {}
+    "D:\\ocelot_test\\APIGateway\\APIGateway.csproj": {}
   },
   "projects": {
-    "D:\\Test Development\\SimpleMicroservice\\APIGateway\\APIGateway.csproj": {
+    "D:\\ocelot_test\\APIGateway\\APIGateway.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Test Development\\SimpleMicroservice\\APIGateway\\APIGateway.csproj",
+        "projectUniqueName": "D:\\ocelot_test\\APIGateway\\APIGateway.csproj",
         "projectName": "APIGateway",
-        "projectPath": "D:\\Test Development\\SimpleMicroservice\\APIGateway\\APIGateway.csproj",
-        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "D:\\Test Development\\SimpleMicroservice\\APIGateway\\obj\\",
+        "projectPath": "D:\\ocelot_test\\APIGateway\\APIGateway.csproj",
+        "packagesPath": "C:\\Users\\kiamb\\.nuget\\packages\\",
+        "outputPath": "D:\\ocelot_test\\APIGateway\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\kiamb\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -41,6 +41,14 @@
           "targetAlias": "netcoreapp3.1",
           "dependencies": {
             "Ocelot": {
+              "target": "Package",
+              "version": "[16.0.1, )"
+            },
+            "Ocelot.Provider.Consul": {
+              "target": "Package",
+              "version": "[16.0.1, )"
+            },
+            "Ocelot.Provider.Eureka": {
               "target": "Package",
               "version": "[16.0.1, )"
             }

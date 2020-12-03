@@ -30,3 +30,47 @@ D:\Test Development\SimpleMicroservice\APIGateway\obj\Debug\netcoreapp3.1\APIGat
 D:\Test Development\SimpleMicroservice\APIGateway\obj\Debug\netcoreapp3.1\APIGateway.dll
 D:\Test Development\SimpleMicroservice\APIGateway\obj\Debug\netcoreapp3.1\APIGateway.pdb
 D:\Test Development\SimpleMicroservice\APIGateway\obj\Debug\netcoreapp3.1\APIGateway.genruntimeconfig.cache
+D:\ocelot_test\APIGateway\obj\Debug\netcoreapp3.1\APIGateway.AssemblyInfoInputs.cache
+D:\ocelot_test\APIGateway\obj\Debug\netcoreapp3.1\APIGateway.AssemblyInfo.cs
+D:\ocelot_test\APIGateway\obj\Debug\netcoreapp3.1\APIGateway.csproj.CoreCompileInputs.cache
+D:\ocelot_test\APIGateway\obj\Debug\netcoreapp3.1\APIGateway.MvcApplicationPartsAssemblyInfo.cs
+D:\ocelot_test\APIGateway\obj\Debug\netcoreapp3.1\APIGateway.MvcApplicationPartsAssemblyInfo.cache
+D:\ocelot_test\APIGateway\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\ocelot_test\APIGateway\bin\Debug\netcoreapp3.1\appsettings.json
+D:\ocelot_test\APIGateway\bin\Debug\netcoreapp3.1\ocelot.json
+D:\ocelot_test\APIGateway\bin\Debug\netcoreapp3.1\APIGateway.exe
+D:\ocelot_test\APIGateway\bin\Debug\netcoreapp3.1\APIGateway.deps.json
+D:\ocelot_test\APIGateway\bin\Debug\netcoreapp3.1\APIGateway.runtimeconfig.json
+D:\ocelot_test\APIGateway\bin\Debug\netcoreapp3.1\APIGateway.runtimeconfig.dev.json
+D:\ocelot_test\APIGateway\bin\Debug\netcoreapp3.1\APIGateway.dll
+D:\ocelot_test\APIGateway\bin\Debug\netcoreapp3.1\APIGateway.pdb
+D:\ocelot_test\APIGateway\bin\Debug\netcoreapp3.1\Consul.dll
+D:\ocelot_test\APIGateway\bin\Debug\netcoreapp3.1\FluentValidation.dll
+D:\ocelot_test\APIGateway\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+D:\ocelot_test\APIGateway\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+D:\ocelot_test\APIGateway\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\ocelot_test\APIGateway\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\ocelot_test\APIGateway\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DiagnosticAdapter.dll
+D:\ocelot_test\APIGateway\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\ocelot_test\APIGateway\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\ocelot_test\APIGateway\bin\Debug\netcoreapp3.1\Ocelot.dll
+D:\ocelot_test\APIGateway\bin\Debug\netcoreapp3.1\Ocelot.Provider.Eureka.dll
+D:\ocelot_test\APIGateway\bin\Debug\netcoreapp3.1\Steeltoe.CloudFoundry.ConnectorBase.dll
+D:\ocelot_test\APIGateway\bin\Debug\netcoreapp3.1\Steeltoe.Common.dll
+D:\ocelot_test\APIGateway\bin\Debug\netcoreapp3.1\Steeltoe.Common.Http.dll
+D:\ocelot_test\APIGateway\bin\Debug\netcoreapp3.1\Steeltoe.Discovery.ClientCore.dll
+D:\ocelot_test\APIGateway\bin\Debug\netcoreapp3.1\Steeltoe.Discovery.ConsulBase.dll
+D:\ocelot_test\APIGateway\bin\Debug\netcoreapp3.1\Steeltoe.Discovery.EurekaBase.dll
+D:\ocelot_test\APIGateway\bin\Debug\netcoreapp3.1\Steeltoe.Extensions.Configuration.CloudFoundryBase.dll
+D:\ocelot_test\APIGateway\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netstandard1.3\System.Net.Http.WinHttpHandler.dll
+D:\ocelot_test\APIGateway\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard1.3\System.Net.Http.WinHttpHandler.dll
+D:\ocelot_test\APIGateway\obj\Debug\netcoreapp3.1\staticwebassets\APIGateway.StaticWebAssets.Manifest.cache
+D:\ocelot_test\APIGateway\obj\Debug\netcoreapp3.1\staticwebassets\APIGateway.StaticWebAssets.xml
+D:\ocelot_test\APIGateway\obj\Debug\netcoreapp3.1\scopedcss\bundle\APIGateway.styles.css
+D:\ocelot_test\APIGateway\obj\Debug\netcoreapp3.1\APIGateway.RazorTargetAssemblyInfo.cache
+D:\ocelot_test\APIGateway\obj\Debug\netcoreapp3.1\APIGateway.csproj.CopyComplete
+D:\ocelot_test\APIGateway\obj\Debug\netcoreapp3.1\APIGateway.dll
+D:\ocelot_test\APIGateway\obj\Debug\netcoreapp3.1\APIGateway.pdb
+D:\ocelot_test\APIGateway\obj\Debug\netcoreapp3.1\APIGateway.genruntimeconfig.cache
+D:\ocelot_test\APIGateway\obj\Debug\netcoreapp3.1\APIGateway.csprojAssemblyReference.cache
+D:\ocelot_test\APIGateway\bin\Debug\netcoreapp3.1\Ocelot.Provider.Consul.dll

@@ -13,5 +13,6 @@ namespace UserService.Database
         public DatabaseContext(DbContextOptions options) : base(options) { }
 
         public DbSet<User> Users { get; set; }
+        public DbSet<Role> Roles { get; set; }
     }
 }

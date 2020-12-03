@@ -854,19 +854,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\user\\.nuget\\packages\\": {}
+    "C:\\Users\\kiamb\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Test Development\\SimpleMicroservice\\UserService\\UserService.csproj",
+      "projectUniqueName": "D:\\ocelot_test\\UserService\\UserService.csproj",
       "projectName": "UserService",
-      "projectPath": "D:\\Test Development\\SimpleMicroservice\\UserService\\UserService.csproj",
-      "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "D:\\Test Development\\SimpleMicroservice\\UserService\\obj\\",
+      "projectPath": "D:\\ocelot_test\\UserService\\UserService.csproj",
+      "packagesPath": "C:\\Users\\kiamb\\.nuget\\packages\\",
+      "outputPath": "D:\\ocelot_test\\UserService\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\kiamb\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

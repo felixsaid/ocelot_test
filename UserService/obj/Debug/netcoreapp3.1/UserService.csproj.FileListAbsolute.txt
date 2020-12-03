@@ -39,3 +39,44 @@ D:\Test Development\SimpleMicroservice\UserService\obj\Debug\netcoreapp3.1\UserS
 D:\Test Development\SimpleMicroservice\UserService\obj\Debug\netcoreapp3.1\UserService.dll
 D:\Test Development\SimpleMicroservice\UserService\obj\Debug\netcoreapp3.1\UserService.pdb
 D:\Test Development\SimpleMicroservice\UserService\obj\Debug\netcoreapp3.1\UserService.genruntimeconfig.cache
+D:\ocelot_test\UserService\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\ocelot_test\UserService\bin\Debug\netcoreapp3.1\appsettings.json
+D:\ocelot_test\UserService\bin\Debug\netcoreapp3.1\libman.json
+D:\ocelot_test\UserService\bin\Debug\netcoreapp3.1\UserService.exe
+D:\ocelot_test\UserService\bin\Debug\netcoreapp3.1\UserService.deps.json
+D:\ocelot_test\UserService\bin\Debug\netcoreapp3.1\UserService.runtimeconfig.json
+D:\ocelot_test\UserService\bin\Debug\netcoreapp3.1\UserService.runtimeconfig.dev.json
+D:\ocelot_test\UserService\bin\Debug\netcoreapp3.1\UserService.dll
+D:\ocelot_test\UserService\bin\Debug\netcoreapp3.1\UserService.pdb
+D:\ocelot_test\UserService\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\ocelot_test\UserService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\ocelot_test\UserService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ocelot_test\UserService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\ocelot_test\UserService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ocelot_test\UserService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\ocelot_test\UserService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\ocelot_test\UserService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\ocelot_test\UserService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\ocelot_test\UserService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\ocelot_test\UserService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\ocelot_test\UserService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\ocelot_test\UserService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\ocelot_test\UserService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\ocelot_test\UserService\bin\Debug\netcoreapp3.1\Npgsql.dll
+D:\ocelot_test\UserService\bin\Debug\netcoreapp3.1\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\ocelot_test\UserService\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\ocelot_test\UserService\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\ocelot_test\UserService\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\ocelot_test\UserService\obj\Debug\netcoreapp3.1\UserService.csprojAssemblyReference.cache
+D:\ocelot_test\UserService\obj\Debug\netcoreapp3.1\UserService.AssemblyInfoInputs.cache
+D:\ocelot_test\UserService\obj\Debug\netcoreapp3.1\UserService.AssemblyInfo.cs
+D:\ocelot_test\UserService\obj\Debug\netcoreapp3.1\UserService.csproj.CoreCompileInputs.cache
+D:\ocelot_test\UserService\obj\Debug\netcoreapp3.1\UserService.MvcApplicationPartsAssemblyInfo.cache
+D:\ocelot_test\UserService\obj\Debug\netcoreapp3.1\staticwebassets\UserService.StaticWebAssets.Manifest.cache
+D:\ocelot_test\UserService\obj\Debug\netcoreapp3.1\staticwebassets\UserService.StaticWebAssets.xml
+D:\ocelot_test\UserService\obj\Debug\netcoreapp3.1\scopedcss\bundle\UserService.styles.css
+D:\ocelot_test\UserService\obj\Debug\netcoreapp3.1\UserService.RazorTargetAssemblyInfo.cache
+D:\ocelot_test\UserService\obj\Debug\netcoreapp3.1\UserService.csproj.CopyComplete
+D:\ocelot_test\UserService\obj\Debug\netcoreapp3.1\UserService.dll
+D:\ocelot_test\UserService\obj\Debug\netcoreapp3.1\UserService.pdb
+D:\ocelot_test\UserService\obj\Debug\netcoreapp3.1\UserService.genruntimeconfig.cache

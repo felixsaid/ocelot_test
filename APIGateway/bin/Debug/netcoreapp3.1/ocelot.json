@@ -1,16 +1,34 @@
 {
-  "ReRoutes": [
+  "Routes": [
     {
-      "DownstreamPathTemplate": "/api/user",
+      "DownstreamPathTemplate": "/api/users/{everything}",
       "DownstreamScheme": "http",
+      "ServiceName" : "UserService",
       "DownstreamHostAndPorts": [
         {
           "Host": "localhost",
           "Port": 64451
         }
       ],
-      "UpstreamPathTemplate": "/api/v1/user",
-      "UpstreamHttpMethod": [ "GET" ]
+      "UpstreamPathTemplate": "/api/users/{everything}",
+      "UpstreamHttpMethod": [ "GET", "POST", "PUT", "DELETE" ]
+    },
+    {
+      "DownstreamPathTemplate": "/api/roles/{everything}",
+      "DownstreamScheme": "http",
+      "ServiceName": "RoleService",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 59075
+        }
+      ],
+      "UpstreamPathTemplate": "/api/roles/{everything}",
+      "UpstreamHttpMethod": [ "GET", "POST", "PUT", "DELETE" ]
     }
-  ]
+  ],
+  "GlobalConfiguration": {
+    "BaseUrl": "http://localhost:56447"
+  },
+  "AllowedHosts": "*"
 }
