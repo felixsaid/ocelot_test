@@ -1,34 +1,28 @@
 {
   "Routes": [
     {
-      "DownstreamPathTemplate": "/api/users/{everything}",
-      "DownstreamScheme": "http",
-      "ServiceName" : "UserService",
+      "DownstreamPathTemplate": "/api/{controller}",
+      "DownstreamScheme": "https",
       "DownstreamHostAndPorts": [
         {
           "Host": "localhost",
-          "Port": 64451
+          "Port": 44335
         }
       ],
-      "UpstreamPathTemplate": "/api/users/{everything}",
+      "UpstreamPathTemplate": "/usersservice/{controller}",
       "UpstreamHttpMethod": [ "GET", "POST", "PUT", "DELETE" ]
     },
     {
-      "DownstreamPathTemplate": "/api/roles/{everything}",
-      "DownstreamScheme": "http",
-      "ServiceName": "RoleService",
+      "DownstreamPathTemplate": "/api/{controller}",
+      "DownstreamScheme": "https",
       "DownstreamHostAndPorts": [
         {
           "Host": "localhost",
-          "Port": 59075
+          "Port": 44336
         }
       ],
-      "UpstreamPathTemplate": "/api/roles/{everything}",
+      "UpstreamPathTemplate": "/rolesservice/{controller}",
       "UpstreamHttpMethod": [ "GET", "POST", "PUT", "DELETE" ]
     }
-  ],
-  "GlobalConfiguration": {
-    "BaseUrl": "http://localhost:56447"
-  },
-  "AllowedHosts": "*"
+  ]
 }

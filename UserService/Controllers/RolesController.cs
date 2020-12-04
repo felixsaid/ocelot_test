@@ -8,7 +8,7 @@ using UserService.Database;
 
 namespace UserService.Controllers
 {
-    [Route("api/users/[controller]")]
+    [Route("api/[controller]")]
     [ApiController]
     public class RolesController : ControllerBase
     {

@@ -7,7 +7,6 @@ D:\ocelot_test\APIGateway\bin\Release\netcoreapp3.1\APIGateway.runtimeconfig.jso
 D:\ocelot_test\APIGateway\bin\Release\netcoreapp3.1\APIGateway.runtimeconfig.dev.json
 D:\ocelot_test\APIGateway\bin\Release\netcoreapp3.1\APIGateway.dll
 D:\ocelot_test\APIGateway\bin\Release\netcoreapp3.1\APIGateway.pdb
-D:\ocelot_test\APIGateway\bin\Release\netcoreapp3.1\Consul.dll
 D:\ocelot_test\APIGateway\bin\Release\netcoreapp3.1\FluentValidation.dll
 D:\ocelot_test\APIGateway\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
 D:\ocelot_test\APIGateway\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.MiddlewareAnalysis.dll
@@ -17,17 +16,6 @@ D:\ocelot_test\APIGateway\bin\Release\netcoreapp3.1\Microsoft.Extensions.Diagnos
 D:\ocelot_test\APIGateway\bin\Release\netcoreapp3.1\Newtonsoft.Json.dll
 D:\ocelot_test\APIGateway\bin\Release\netcoreapp3.1\Newtonsoft.Json.Bson.dll
 D:\ocelot_test\APIGateway\bin\Release\netcoreapp3.1\Ocelot.dll
-D:\ocelot_test\APIGateway\bin\Release\netcoreapp3.1\Ocelot.Provider.Consul.dll
-D:\ocelot_test\APIGateway\bin\Release\netcoreapp3.1\Ocelot.Provider.Eureka.dll
-D:\ocelot_test\APIGateway\bin\Release\netcoreapp3.1\Steeltoe.CloudFoundry.ConnectorBase.dll
-D:\ocelot_test\APIGateway\bin\Release\netcoreapp3.1\Steeltoe.Common.dll
-D:\ocelot_test\APIGateway\bin\Release\netcoreapp3.1\Steeltoe.Common.Http.dll
-D:\ocelot_test\APIGateway\bin\Release\netcoreapp3.1\Steeltoe.Discovery.ClientCore.dll
-D:\ocelot_test\APIGateway\bin\Release\netcoreapp3.1\Steeltoe.Discovery.ConsulBase.dll
-D:\ocelot_test\APIGateway\bin\Release\netcoreapp3.1\Steeltoe.Discovery.EurekaBase.dll
-D:\ocelot_test\APIGateway\bin\Release\netcoreapp3.1\Steeltoe.Extensions.Configuration.CloudFoundryBase.dll
-D:\ocelot_test\APIGateway\bin\Release\netcoreapp3.1\runtimes\unix\lib\netstandard1.3\System.Net.Http.WinHttpHandler.dll
-D:\ocelot_test\APIGateway\bin\Release\netcoreapp3.1\runtimes\win\lib\netstandard1.3\System.Net.Http.WinHttpHandler.dll
 D:\ocelot_test\APIGateway\obj\Release\netcoreapp3.1\APIGateway.csprojAssemblyReference.cache
 D:\ocelot_test\APIGateway\obj\Release\netcoreapp3.1\APIGateway.AssemblyInfoInputs.cache
 D:\ocelot_test\APIGateway\obj\Release\netcoreapp3.1\APIGateway.AssemblyInfo.cs
